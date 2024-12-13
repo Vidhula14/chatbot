@@ -37,18 +37,3 @@ if prompt:=st.chat_input("ask me anything"):
     with st.chat_message("ai"):
         st.markdown(response ) 
     st.session_state.messages.append({"role":"ai","content":response})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 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
